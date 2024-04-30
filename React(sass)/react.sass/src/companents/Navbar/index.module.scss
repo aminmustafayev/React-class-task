@@ -1,0 +1,34 @@
+.divSize{
+    width: 100%;
+    height: 700px;
+    margin-top: 20px;
+
+}
+.imgNav{
+ width: 100%;
+ height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    object-fit: cover;
+ background-image: url("https://assets.nicepagecdn.com/d2cc3eaa/2625193/images/young-rural-travellers-picnic2.jpg");
+ background-position: center;
+}
+.colorDiv{
+    background-color: white;
+    width: 380px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin-right: 1000px;
+}
+.marGin{
+    margin: 20px;
+}
+.button{
+ border-radius: 30px;
+ background-color: #A79770;
+ border: none;
+ padding: 13px 18px;
+ color: white;
+}
